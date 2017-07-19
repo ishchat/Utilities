@@ -23,3 +23,16 @@ http://forums.devarticles.com/c-c-help-52/c-opening-all-txt-files-in-a-folder-on
 
 Memory mapping to read huge amounts of data
 https://blogs.msdn.microsoft.com/calvin_hsia/2016/06/30/mapped-files-give-very-fast-access-to-huge-amounts-of-data/
+
+fread
+http://www.cplusplus.com/reference/cstdio/fread/
+
+http://www.cplusplus.com/doc/tutorial/files/
+https://stackoverflow.com/questions/6755111/read-input-files-fastest-way-possible
+https://stackoverflow.com/questions/37588346/read-large-file-in-c/37589354
+https://stackoverflow.com/questions/5431941/why-is-while-feof-file-always-wrong
+https://stackoverflow.com/questions/24851291/read-huge-text-file-line-by-line-in-c-with-buffering
+https://www.quora.com/Which-works-faster-ifstream-or-fread
+http://www.cplusplus.com/reference/istream/istream/read/
+https://github.com/tpatil2/C-Programs
+
